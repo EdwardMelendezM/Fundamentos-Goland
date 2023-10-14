@@ -1,5 +1,9 @@
-#Fundamentos de Goland
+# Fundamentos de Goland
+
+- Compiled languague
 
 - Variables
-- Operaciones
+- Operators
+- Functions
+- Structures
 - Uso de Gin para la Api
